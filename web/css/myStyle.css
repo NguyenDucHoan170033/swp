@@ -1,0 +1,54 @@
+.video-wrapper {
+    position: relative;
+    width: 100%;
+}
+
+.video-wrapper video {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.pagebuilder-collage-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.content-wrapper {
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.nav-link {
+    color: white !important;
+    font-weight: bold;
+}
+.search-form {
+    margin-right: 20px;
+}
+
+.search-input {
+    border-radius: 20px;
+}
+
+.search-button {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.cart-button {
+    background-color: #333; 
+    color: #fff; 
+    border-color: #333; 
+    border-radius: 20px; 
+    padding: 5px 15px; 
+}
+
+
+
+
+
+
+
